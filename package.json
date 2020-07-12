@@ -1,0 +1,37 @@
+{
+  "name": "static-site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^6.3.1"
+  }
+}
+
+{
+  "name": "hw9-good-readme-generator",
+  "version": "1.0.0",
+  "description": "A fantastical README generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TicTac2992/hw9-good-readme-generator.git"
+  },
+  "keywords": [
+    "TicTac2992"
+  ],
+  "author": "Jared N. Varnum",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TicTac2992/hw9-good-readme-generator/issues"
+  },
+  "homepage": "https://github.com/TicTac2992/hw9-good-readme-generator#readme"
+}
