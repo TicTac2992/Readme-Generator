@@ -1,5 +1,5 @@
-  # Great README.md Generator
-  ![License](https://img.shields.io/badge/License-%202.0-blue.svg)
+ # Great README.md Generator
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   ## Table of Contents
   * [Description](#Description)
   * [Installation](#Installation)
@@ -13,7 +13,7 @@
   ## Installation
   npm install inquirer
   ## License
-  
+  MIT
   ## Contributing
   None
   ## Tests
